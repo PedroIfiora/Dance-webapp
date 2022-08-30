@@ -1,0 +1,8 @@
+
+# Python
+.env
+myvenv/
+venv/
+# Database
+db.sqlite3
+
