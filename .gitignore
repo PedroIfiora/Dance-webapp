@@ -5,4 +5,8 @@ myvenv/
 venv/
 # Database
 db.sqlite3
-
+imgs/
+js/
+pedrovirtualenvironment/
+webfonts/
+db.sqlite3/
